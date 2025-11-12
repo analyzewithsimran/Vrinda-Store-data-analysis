@@ -84,7 +84,7 @@ Contains multiple sheets including order summary, gender analysis, top states, a
 ## ✨ Author
 **Simran Vishwakarma**  
 📍 *Data Analyst | Excel | SQL | Power BI | Python | Machine Learning*  
-🔗 [LinkedIn](https://linkedin.com/in/your-linkedin-id) | [GitHub](https://github.com/analyzewithsimran)
+🔗 [LinkedIn]www.linkedin.com/in/simran-vishwakarma-11b2a336b) | [GitHub](https://github.com/analyzewithsimran)
 
 ---
 
